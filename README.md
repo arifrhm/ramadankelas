@@ -20,19 +20,25 @@ RamadanKelas adalah platform e-learning yang dirancang khusus untuk bulan Ramadh
 
 ### 🚀 Kursus Tersedia
 
-**Beginner/Intermediate:**
-1. Belajar Tilawah Juz 30 - Rp 99.000 (keagamaan)
-2. React dengan Typescript: Level Up - Rp 249.000 (tech)
-3. Manajemen Waktu Productivity - Rp 149.000 (productivity)
-4. Fiqih Puasa Praktis - Rp 129.000 (keagamaan)
-5. Next.js 14 App Router Mastery - Rp 299.000 (tech)
+#### Beginner/Intermediate
 
-**Advanced/Professional (PoC-focused):**
-6. **Fiqih Muamalah untuk Tech Professionals** - Rp 199.000 (keagamaan, intermediate)
-7. **PoC: Distributed System dengan CQRS & Event Sourcing** - Rp 599.000 (tech, advanced)
-8. **PoC: Microservices with Kubernetes & Service Mesh** - Rp 699.000 (tech, advanced)
-9. **PoC: High-Performance Caching Strategies** - Rp 449.000 (tech, intermediate)
-10. **Senior Engineering: System Design & Architecture** - Rp 799.000 (tech, advanced)
+| No | Nama Kursus | Kategori | Level | Harga |
+|----|--------------|-----------|--------|---------|
+| 1 | Belajar Tilawah Juz 30 | Keagamaan | Beginner | Rp 99.000 |
+| 2 | React dengan Typescript: Level Up | Tech | Intermediate | Rp 249.000 |
+| 3 | Manajemen Waktu Productivity | Productivity | Beginner | Rp 149.000 |
+| 4 | Fiqih Puasa Praktis | Keagamaan | Beginner | Rp 129.000 |
+| 5 | Next.js 14 App Router Mastery | Tech | Intermediate | Rp 299.000 |
+| 6 | Fiqih Muamalah untuk Tech Professionals | Keagamaan | Intermediate | Rp 199.000 |
+
+#### Advanced/Professional (PoC-focused)
+
+| No | Nama Kursus | Kategori | Level | Harga |
+|----|--------------|-----------|--------|---------|
+| 7 | PoC: Distributed System dengan CQRS & Event Sourcing | Tech | Advanced | Rp 599.000 |
+| 8 | PoC: Microservices with Kubernetes & Service Mesh | Tech | Advanced | Rp 699.000 |
+| 9 | PoC: High-Performance Caching Strategies | Tech | Intermediate | Rp 449.000 |
+| 10 | Senior Engineering: System Design & Architecture | Tech | Advanced | Rp 799.000 |
 
 ## 🛠️ Tech Stack
 
@@ -55,7 +61,7 @@ RamadanKelas adalah platform e-learning yang dirancang khusus untuk bulan Ramadh
 
 ```bash
 # Clone repository
-git clone <your-repo-url>
+git clone https://github.com/arifrhm/ramadankelas.git
 cd ramadankelas
 
 # Install dependencies
